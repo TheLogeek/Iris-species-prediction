@@ -12,6 +12,8 @@ https://www.kaggle.com/datasets/uciml/iris
 
 **REQUIREMENTS**
 
+Jupyter notebook
+
 pandas
 
 scikit-learn
